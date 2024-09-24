@@ -27,6 +27,9 @@ Computer Engineer Student @ Birzeit University. Who is interested in AI, ML, and
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/P5V8xqg/pandas-svgrepo-com.png" width="36" height="36" alt="pandas" /></a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vXzSCR5/matlab-svgrepo-com.png" width="36" height="36" alt="Matplotlib" /></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/9GM5Y4v/icons8-spring-boot-48.png" width="36" height="36" alt="Spring Boot" /></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/Mphpqtx/php-logo.png" width="36" height="36" alt="PHP"/>
+</a>
+
 </p>
 
 
