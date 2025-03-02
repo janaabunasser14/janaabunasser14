@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jana Abu Nasser
 =======================================================================================================================================
 
-Computer Engineer Student @ Birzeit University. Who is interested in AI, ML, and backend development.
+Computer Engineer Who is interested in AI, ML, and backend development.
 
 * ✉️  You can contact me at [abunasserjana@gmail.com](mailto:abunasserjana@gmail.com)
 * 🧠  I'm learning Node.js, databases, and API development.
